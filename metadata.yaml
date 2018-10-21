@@ -1,5 +1,5 @@
 _repo: The-Red-Lily-Volume-02_3920
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'France -- Fiction'
 - !lcsh 'Italy -- Fiction'
 - !lcc 'PQ'
+- GITenberg
 title: The Red Lily — Volume 02
 url: http://www.gutenberg.org/ebooks/3920
